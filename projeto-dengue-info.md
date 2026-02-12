@@ -23,6 +23,6 @@ Aberto a melhorias e sugestões futuras.
 
 ---
 
-*Desenvolvido com 💚 por **Madson Chaves*** 
+*Desenvolvido por **Madson Chaves*** 
             
                                                                            
