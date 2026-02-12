@@ -4,7 +4,7 @@ Site informativo e responsivo criado com HTML e CSS para conscientização sobre
 
 ## 🔗 Acesse o site
 
-👉 [Clique aqui para visualizar](https://madsonchaves.github.io/Projetodengue/)
+👉 [Clique aqui para visualizar]([https://madsonchaves.github.io/Projetodengue/](https://madsonchaves.github.io/TrabalhoProjetoDengue/))
 
 ## 📂 Tecnologias utilizadas
 
